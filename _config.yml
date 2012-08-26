@@ -1,0 +1,7 @@
+safe:        false
+auto:        true
+source:      ./_posts
+destination: ./_site
+pygments:    true
+lsi:         true
+permalink:   true
