@@ -1,4 +1,3 @@
-auto:      true
-pygments:  true
-lsi:       true
-permalink: true
+auto:     true
+pygments: true
+lsi:      true
